@@ -40,7 +40,7 @@ export default function Footer() {
                 <h3 className="text-sm ml-80 font-bold text-gray-400 tracking-wider uppercase">
                   Menu
                 </h3>
-                <ul role="list" className="mt-4 ml-80  space-y-4 justify-between">
+                <ul role="list" className="mt-4 ml-30  space-y-4 justify-between">
                   {navigation.menu.map((item) => (
                     <li key={item.name}>
                       <Link
@@ -76,7 +76,7 @@ export default function Footer() {
               </a>
             ))}
           </div>
-          <p className="mt-8 text-base ml-80 text-gray-400 md:mt-0 md:order-1">
+          <p className="mt-8 text-base ml-30 text-gray-400 md:mt-0 md:order-1">
             &copy;{new Date().getFullYear()}. All rights reserved.
           </p>
         </div>
