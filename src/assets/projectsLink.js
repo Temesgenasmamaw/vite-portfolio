@@ -19,8 +19,8 @@ const projectslink = [
   {
     name: "React JS portifolio",
     picture: `https://raw.githubusercontent.com/Temesgenasmamaw/full/main/uploads/portifolio.PNG`,
-    demo: "",
-    code: "",
+    demo: "https://temesgen-asmamaw-jet.vercel.app/",
+    code: "https://github.com/Temesgenasmamaw/vite-portfolio",
   },
  
 ];
