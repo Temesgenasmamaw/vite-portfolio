@@ -10,8 +10,7 @@ const navigation = {
     { name: "Projects", href: "projects" },
     { name: "Contact", href: "contact" },
   ],
-  // projects: 
-
+  // projects:
 
   social: [...socialMediaLinks],
 };
@@ -30,17 +29,19 @@ export default function Footer() {
       <h2 id="footer-heading" className="sr-only">
         Footer
       </h2>
-      <hr/>
+      <hr />
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
         <div className="xl:grid xl:grid-cols-3 xl:gap-8">
           <div className="grid grid-cols-2 gap-8 xl:col-span-2">
             <div className="grid grid-cols-3 col-span-2 gap-8 ">
               <div>
-                
-                <h3 className="text-sm ml-80 font-bold text-gray-400 tracking-wider uppercase">
+                <h3 className="text-sm ml-30 font-bold text-gray-400 tracking-wider uppercase">
                   Menu
                 </h3>
-                <ul role="list" className="mt-4 ml-30  space-y-4 justify-between">
+                <ul
+                  role="list"
+                  className="mt-4 ml-30  space-y-4 justify-between"
+                >
                   {navigation.menu.map((item) => (
                     <li key={item.name}>
                       <Link
@@ -58,7 +59,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8   border-t border-gray-700 pt-8 md:flex md:items-center  md:justify-between">
-          <div className="flex space-x-6  md:order-2 mr-80">
+          <div className="flex md:items-center space-x-6 md:order-2 sm:mr-0">
             {navigation.social.map((item) => (
               <a
                 key={item.name}
