@@ -19,7 +19,7 @@ function App() {
         <Contact />
         <Footer />
       </main>
-      <SocialLinks />
+      {/* <SocialLinks /> */}
     </>
   );
 }
