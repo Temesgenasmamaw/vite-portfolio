@@ -33,7 +33,7 @@ const projectslink = [
     name: "LMS ",
     picture: `https://raw.githubusercontent.com/Temesgenasmamaw/fullstack/main/uploads/landpage.PNG?token=ATFJQ5QSMEHDXBEDLTI7SHLFSQKYC`,
     demo: "https://temesgen-asmamaw-jet.vercel.app/",
-    code: "https://github.com/Temesgenasmamaw/lms",
+    code: "https://github.com/Temesgenasmamaw/taff-tech-lms",
   },
 ];
 
