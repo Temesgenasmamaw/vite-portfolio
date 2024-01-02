@@ -24,14 +24,14 @@ const projectslink = [
   },
   {
     name: "Grocery mobile app",
-    picture: `https://ibb.co/HPXHbwz`,
+    picture: `https://raw.githubusercontent.com/Temesgenasmamaw/fullstack/main/uploads/grocery.jpg?token=ATFJQ5WDXAAYCKZPQNS7KXDFSQLLG`,
     demo: "https://temesgen-asmamaw-jet.vercel.app/",
     code: "https://github.com/Temesgenasmamaw/grocerrymobile-app",
   },
 
   {
     name: "LMS ",
-    picture: `https://raw.githubusercontent.com/Temesgenasmamaw/full/main/uploads/portifolio`,
+    picture: `https://raw.githubusercontent.com/Temesgenasmamaw/fullstack/main/uploads/landpage.PNG?token=ATFJQ5QSMEHDXBEDLTI7SHLFSQKYC`,
     demo: "https://temesgen-asmamaw-jet.vercel.app/",
     code: "https://github.com/Temesgenasmamaw/lms",
   },
