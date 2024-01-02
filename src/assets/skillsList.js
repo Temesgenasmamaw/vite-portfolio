@@ -67,11 +67,11 @@ const skillsList = [
         certificate:
           "",
       },
-      {
-        name: "Redux",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
-        certificate: "",
-      },
+      // {
+      //   name: "Redux",
+      //   icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+      //   certificate: "",
+      // },
      
       {
         name: "Next JS",
@@ -172,22 +172,22 @@ const skillsList = [
    
   ]
   },
-  {
-    category: "UI/UX",
+  // {
+  //   category: "UI/UX",
 
-    members: [
-      {
-        name: "Canva",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg",
-        certificate: "",
-      },
-      {
-        name: "Figma",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
-        certificate: "",
-      },
-    ],
-  },
+  //   members: [
+  //     {
+  //       name: "Canva",
+  //       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg",
+  //       certificate: "",
+  //     },
+  //     {
+  //       name: "Figma",
+  //       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+  //       certificate: "",
+  //     },
+  //   ],
+  // },
  
 
 ];

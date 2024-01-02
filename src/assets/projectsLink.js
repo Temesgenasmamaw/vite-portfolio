@@ -22,7 +22,19 @@ const projectslink = [
     demo: "https://temesgen-asmamaw-jet.vercel.app/",
     code: "https://github.com/Temesgenasmamaw/vite-portfolio",
   },
- 
+  {
+    name: "Grocery mobile app",
+    picture: `https://ibb.co/HPXHbwz`,
+    demo: "https://temesgen-asmamaw-jet.vercel.app/",
+    code: "https://github.com/Temesgenasmamaw/grocerrymobile-app",
+  },
+
+  {
+    name: "LMS ",
+    picture: `https://raw.githubusercontent.com/Temesgenasmamaw/full/main/uploads/portifolio`,
+    demo: "https://temesgen-asmamaw-jet.vercel.app/",
+    code: "https://github.com/Temesgenasmamaw/lms",
+  },
 ];
 
 // export const allProjects = [
